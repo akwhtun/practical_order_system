@@ -11,16 +11,16 @@ const About = () => {
 
                 {/* Main Paragraph Section */}
                 <p className="text-xl leading-relaxed font-medium mb-6">
-                    Welcome to <span className="font-extrabold ">Foodify2</span>, a simple and easy way to order food. We created this app with university students in mind, especially for students at <span className="font-extrabold ">Computer University - Mandalay</span>, to make our university welcome day a memorable occasion.
+                    Welcome to <span className="font-extrabold ">Foodify2</span>, a simple and easy way to order food. I created this app with university students in mind, especially for students at <span className="font-extrabold ">Computer University - Mandalay</span>, to make university welcome day a memorable occasion.
                 </p>
 
                 <p className="text-xl leading-relaxed font-medium mb-6">
-                    Our goal is to make ordering food quick and stress-free. With just a few clicks, you can enjoy tasty meals without any trouble.
+                    My goal is to make ordering food quick and stress-free. With just a few clicks, you can enjoy tasty meals without any trouble.
                 </p>
 
                 {/* Closing Paragraph */}
                 <p className="text-xl leading-relaxed font-medium mb-12">
-                    Thank you for choosing <span className="font-extrabold ">Foodify2</span>. We’re here to make your day more delicious!
+                    Thank you for choosing <span className="font-extrabold ">Foodify2</span>.
                 </p>
 
 

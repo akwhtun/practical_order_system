@@ -199,6 +199,7 @@ export default function AdminDashboard() {
                 >
                     {isOrderOpen.isOpen ? "Turn Orders Off" : "Turn Orders On"}
                 </button>) : (<></>)}
+                <button  onClick={handleOrderControl}>hi</button>
 
                 <button
                     onClick={handleLogout}
